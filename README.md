@@ -1,12 +1,40 @@
-# React + Vite
+# 📊 React Admin Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive, customizable Admin Dashboard built with **React** — designed to deliver a seamless user experience with powerful features like charts, tables, Kanban board, calendar, and theme switching.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🎨 **Customizable Themes** – Light & Dark modes for a personalized experience.
+- 📈 **Charts & Graphs** – Integrated visualizations (bar, line, pie, etc.).
+- 🗂️ **Tables** – Data tables with sorting, filtering, and pagination.
+- 🗓️ **Calendar** – Schedule and event management made easy.
+- 🗃️ **Kanban Board** – Organize tasks visually with drag-and-drop.
+- ⚡ **Responsive UI** – Optimized for all devices and screen sizes.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧑‍💻 Tech Stack
+
+- **Frontend**: React.js
+- **Styling**: Tailwind CSS 
+- **Charts**: Chart.js
+- **Calendar**: custom calendar component
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/Ritishkr78/Dashboard.git
+
+# Navigate into the project folder
+cd Dashboard
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm start
